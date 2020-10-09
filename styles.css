@@ -1,5 +1,5 @@
 body {
-    background:#FFC2F3;
+    background:darkblue;
     font-family:Arial, Helvetica, sans-serif;
 
 }
@@ -13,13 +13,20 @@ body {
 
 .assignment img {
     width:200px;
-    padding:10px;
+    padding:2px;
+    border: 2px solid salmon;
+    margin-right:20px;
 }
 
 h1 {
 
-color:darkslateblue;
+color:darkred;
 text-align:center;
 
 
+}
+
+a {
+    text-decoration:none;
+    color:green;
 }
